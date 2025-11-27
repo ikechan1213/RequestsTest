@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="外部ファイル実装">
-      <change afterPath="$PROJECT_DIR$/chap1-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="1-3実行完了">
+      <change afterPath="$PROJECT_DIR$/chap2-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764132785147</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1-3実行完了">
+      <option name="closed" value="true" />
+      <created>1764219695524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764219695524</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-1正常実行完了" />
     <MESSAGE value="1-2実行完了" />
     <MESSAGE value="外部ファイル実装" />
-    <option name="LAST_COMMIT_MESSAGE" value="外部ファイル実装" />
+    <MESSAGE value="1-3実行完了" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-3実行完了" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
