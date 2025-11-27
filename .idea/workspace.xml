@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="2-4実行完了" />
+    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="2-5実行完了">
+      <change afterPath="$PROJECT_DIR$/chap2-6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,8 @@
     "Python.chap2-2.executor": "Run",
     "Python.chap2-3.executor": "Run",
     "Python.chap2-4.executor": "Run",
+    "Python.chap2-5.executor": "Run",
+    "Python.chap2-6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -131,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764221685752</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2-5実行完了">
+      <option name="closed" value="true" />
+      <created>1764221921788</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764221921788</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,7 +155,8 @@
     <MESSAGE value="2-2実行完了" />
     <MESSAGE value="2-3実行完了" />
     <MESSAGE value="2-4実行完了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-4実行完了" />
+    <MESSAGE value="2-5実行完了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-5実行完了" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
