@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="1-3実行完了">
-      <change afterPath="$PROJECT_DIR$/chap2-1.py" afterDir="false" />
+    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="2-2実行完了">
+      <change afterPath="$PROJECT_DIR$/chap2-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,8 @@
     "Python.chap1-1.executor": "Run",
     "Python.chap1-2.executor": "Run",
     "Python.chap1-3.executor": "Run",
+    "Python.chap2-1.executor": "Run",
+    "Python.chap2-2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -97,7 +100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764219695524</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2-1実行完了">
+      <option name="closed" value="true" />
+      <created>1764220286290</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764220286290</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2-2実行完了">
+      <option name="closed" value="true" />
+      <created>1764220680508</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764220680508</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,7 +124,9 @@
     <MESSAGE value="1-2実行完了" />
     <MESSAGE value="外部ファイル実装" />
     <MESSAGE value="1-3実行完了" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-3実行完了" />
+    <MESSAGE value="2-1実行完了" />
+    <MESSAGE value="2-2実行完了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-2実行完了" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
