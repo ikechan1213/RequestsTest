@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="2-6まで完了している状態">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="2-9実行完了">
+      <change afterPath="$PROJECT_DIR$/chap2-10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +37,13 @@
     "Python.chap1-2.executor": "Run",
     "Python.chap1-3.executor": "Run",
     "Python.chap2-1.executor": "Run",
+    "Python.chap2-10.executor": "Run",
     "Python.chap2-2.executor": "Run",
     "Python.chap2-3.executor": "Run",
     "Python.chap2-4.executor": "Run",
     "Python.chap2-5.executor": "Run",
     "Python.chap2-6.executor": "Run",
+    "Python.chap2-9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -159,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764557458630</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2-9実行完了">
+      <option name="closed" value="true" />
+      <created>1764723169294</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764723169294</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,7 +184,8 @@
     <MESSAGE value="2-5実行完了" />
     <MESSAGE value="2-6実行完了" />
     <MESSAGE value="2-6まで完了している状態" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-6まで完了している状態" />
+    <MESSAGE value="2-9実行完了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-9実行完了" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
