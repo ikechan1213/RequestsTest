@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="2-9実行完了">
-      <change afterPath="$PROJECT_DIR$/chap2-10.py" afterDir="false" />
+    <list default="true" id="a93fa080-43bb-4d89-b87d-039419692a5e" name="変更" comment="linklist作成完了">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
     "Python.chap1-3.executor": "Run",
     "Python.chap2-1.executor": "Run",
     "Python.chap2-10.executor": "Run",
+    "Python.chap2-11.executor": "Run",
     "Python.chap2-2.executor": "Run",
     "Python.chap2-3.executor": "Run",
     "Python.chap2-4.executor": "Run",
@@ -169,7 +171,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764723169294</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2-10実行完了">
+      <option name="closed" value="true" />
+      <created>1764723314569</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764723314569</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2-11実行完了">
+      <option name="closed" value="true" />
+      <created>1764724218266</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764724218267</updated>
+    </task>
+    <task id="LOCAL-00016" summary="linklist作成完了">
+      <option name="closed" value="true" />
+      <created>1764724266775</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764724266777</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,7 +211,10 @@
     <MESSAGE value="2-6実行完了" />
     <MESSAGE value="2-6まで完了している状態" />
     <MESSAGE value="2-9実行完了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-9実行完了" />
+    <MESSAGE value="2-10実行完了" />
+    <MESSAGE value="2-11実行完了" />
+    <MESSAGE value="linklist作成完了" />
+    <option name="LAST_COMMIT_MESSAGE" value="linklist作成完了" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
